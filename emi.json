@@ -1,0 +1,66 @@
+{
+  "favorites": [
+    {
+      "stack": "item:modern_industrialization:bronze_boiler"
+    },
+    {
+      "stack": "item:modern_industrialization:bronze_compressor",
+      "recipe": "modern_industrialization:steam_age/bronze/compressor_asbl"
+    }
+  ],
+  "lookup_history": [
+    "item:modern_industrialization:bronze_gear",
+    "item:modern_industrialization:bronze_machine_casing",
+    "item:modern_industrialization:bronze_compressor",
+    "item:modern_industrialization:forge_hammer",
+    "item:modern_industrialization:fluid_pipe",
+    "#item:modern_industrialization:fluid_pipes",
+    "item:modern_industrialization:copper_plate",
+    "#item:c:copper_plates",
+    "item:modern_industrialization:copper_gear",
+    "item:computercraft:computer_normal",
+    "item:modern_industrialization:bronze_boiler",
+    "item:modern_industrialization:fire_clay_dust",
+    "item:modern_industrialization:fire_clay_brick",
+    "item:modern_industrialization:fire_clay_bricks",
+    "item:modern_industrialization:brick_dust",
+    "item:modern_industrialization:bronze_tank",
+    "item:modern_industrialization:bronze_double_ingot",
+    "item:modern_industrialization:bronze_plate",
+    "#item:c:bronze_plates",
+    "item:modern_industrialization:bronze_dust",
+    "item:techreborn:bronze_dust",
+    "item:modern_industrialization:copper_dust",
+    "item:modern_industrialization:copper_tiny_dust",
+    "item:create_new_age:magnetite_block",
+    "item:modern_industrialization:bronze_macerator",
+    "item:techreborn:rubber",
+    "item:techreborn:insulated_copper_cable",
+    "item:techreborn:electronic_circuit",
+    "item:techreborn:grinder",
+    "item:techreborn:refined_iron_ingot"
+  ],
+  "craft_history": [
+    "modern_industrialization:materials/bronze_dust",
+    "modern_industrialization:materials/fire_clay_dust",
+    "modern_industrialization:steam_age/bronze/boiler_asbl",
+    "minecraft:furnace",
+    "modern_industrialization:materials/bronze/craft/tank",
+    "modern_industrialization:materials/fire_clay_bricks",
+    "modern_industrialization:forge_hammer",
+    "minecraft:heavy_weighted_pressure_plate",
+    "minecraft:torch",
+    "minecraft:stone_pickaxe",
+    "minecraft:stone_axe",
+    "minecraft:stick",
+    "minecraft:oak_planks",
+    "minecraft:chest"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

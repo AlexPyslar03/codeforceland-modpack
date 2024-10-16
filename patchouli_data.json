@@ -1,5 +1,17 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "modern_industrialization:book": {
+      "viewedEntries": [
+        "modern_industrialization:introduction/introduction",
+        "modern_industrialization:steam_age/forge_hammer",
+        "modern_industrialization:steam_age/making_bronze",
+        "modern_industrialization:steam_age/bronze_boiler",
+        "modern_industrialization:steam_age/steam_machines"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }
